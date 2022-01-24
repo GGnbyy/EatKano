@@ -410,7 +410,7 @@ function goRank() {
 }
 console.log("不修改，好嘛？乱传又有什么用呢？(ˉ▽ˉ；)...")
 document.onkeydown = function (e) {
-    if (e.keyCode == 123) {
+    if (e.keyCode == 258) {
         return false
     }
 };
